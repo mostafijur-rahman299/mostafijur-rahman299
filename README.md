@@ -34,7 +34,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 
 ![Mostafijur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafijur-rahman299&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafijur-rahman299&layout=compact)](https://github.com/mostafijur-rahman299/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafijur-rahman299&layout=compact)](https://github.com/mostafijur-rahman299/)
 
 <h3>Where to find me</h3>
 <p><a href="https://twitter.com/mostafijur_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mostafijur-rahman299/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
