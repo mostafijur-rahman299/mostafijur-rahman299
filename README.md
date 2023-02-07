@@ -32,7 +32,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 
 
 
-![Mostafijur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafijur-rahman299&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafijur-rahman299&layout=compact)](https://github.com/mostafijur-rahman299/)
 
