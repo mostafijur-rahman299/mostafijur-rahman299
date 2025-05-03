@@ -1,44 +1,15 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Mostafijur Rahman</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22" /></h1>
+<h2> Hi friends, I'm Mostafijur Rahman! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p><em>Software Engineer</em></p>
 
-<!-- [![Commits Badge](https://badges.pufler.dev/commits/monthly/mostafijur-rahman299)](https://badges.pufler.dev) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/mostafij_?label=Follow)](https://twitter.com/intent/follow?screen_name=mostafij)
+[![Linkedin: Mostafijur Rahman](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hello-mostafij/)](https://www.linkedin.com/in/hello-mostafij/)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mostafijur.xyz/)](https://mostafijur.xyz/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mostafijur.rahman299)
 
+### 📫 Like to meet me?
 
-<p>Hey! Welcome, It's great to have you here :)</p>
-<h3>Things I code with</h3>
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-45b8d8?style=flat-square&logo=django&logoColor=white" />
-  
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="ReactNative" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=reactNative&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-Css-E34F26?style=flat-square&logo=css&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-45b8d8?style=flat-square&logo=jquery&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+<a href="https://calendly.com/hello-mostafij/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafijur-rahman299&layout=compact)](https://github.com/mostafijur-rahman299/)
-
-<h3>Where to find me</h3>
-<p><a href="https://twitter.com/mostafijur_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mostafijur-rahman299/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-
-
-
+---
